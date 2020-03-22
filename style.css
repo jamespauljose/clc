@@ -1,0 +1,20 @@
+.mymargin{
+    margin: 5px;
+}
+.mymargin2{
+    margin: 2px;
+}
+input{
+    background-color: gray;
+}
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+}
+h3{
+    font-family: sans-serif;
+}
+#ip{
+    background-color: white;
+}
